@@ -1,0 +1,26 @@
+:root {
+  --gap: 24px;
+  --content-gap: 20px;
+  --nav-width: 1024px;
+  --main-width: 720px;
+  --header-height: 60px;
+  --footer-height: 60px;
+  --radius: 8px;
+  --theme: rgba(245,245,245,255);
+  --entry: rgb(255, 255, 255);
+  --primary: #f07d9d;
+  --secondary: #252522;
+  --tertiary: rgb(224, 224, 224);
+  --content: rgb(5, 5, 5);
+  --hljs-bg: rgb(59, 59, 59);
+  --code-bg: rgb(247, 247, 247);
+  --border: rgb(70, 70, 70);
+}
+
+.dark {
+  --theme: rgba(46,49,66,255); /*background*/
+  --entry: rgb(31, 36, 37); /*post, ToC background*/
+  --content: rgb(221, 221, 221); /*main text*/
+  --hljs-bg: rgb(31, 37, 33); /*code block background*/
+  --border: rgba(122, 122, 122, 0.664); /*tag and ToC border*/
+}

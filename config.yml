@@ -1,0 +1,76 @@
+baseURL: "https://valdezdata.com"
+languageCode: en-us
+title: valdezdata
+theme: PaperMod
+pagination:
+  pagerSize: 4
+
+enableRobotsTXT: true
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  title: valdezdata
+  Description:
+  author: Omar Valdez
+  description: "#dataengineering #datainfra #mlops #dataintegrity #dataops #security"
+  keywords: [blog, valdezdata, papermod]
+  defaultTheme: dark
+  disableThemeToggle: true
+  enableComments: true
+  cusdisAppId: ""
+  social: true
+
+  label:
+    icon: "/favicon/favicon.ico"
+    iconHeight: 30
+    text: "~$ cd .."
+
+  homeInfoParams:
+    Title: "valdezdata"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/valdezdata"
+
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon/favicon-16x16.png"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: false
+  showtoc: true
+  tocopen: true
+  hideSummary: false
+  comments: true
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+menu:
+  main:
+    - name: ">_ whoami"
+      url: /whoami/
+      weight: 3
+    - name: Usos
+      url: "/usos/"
+      weight: 4

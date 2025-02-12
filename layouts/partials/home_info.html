@@ -1,0 +1,41 @@
+<!--. add this to extend_head.html <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script> -->
+
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+  <header class="entry-header">
+    <h1>{{ .Title | markdownify }}</h1>
+  </header>
+  <div class="entry-content">
+    <p id="companionMethods"></p>
+    <!-- put this where you want to type -->
+  </div>
+  <footer class="entry-footer">
+    {{ partial "social_icons.html" site.Params.socialIcons }}
+  </footer>
+</article>
+{{- end -}}
+
+<!--then put the javascript at the end of the code more options at typeitjs.com -->
+
+<script>
+  new TypeIt("#companionMethods", {
+    speed: 80,
+    waitUntilVisible: true,
+  })
+    .type("#dataengim", { delay: 300 })
+    // .move(-1)
+    .delete(1)
+    .type("n")
+    .move(null, { to: "END" })
+    .type("eering #datainfra #dataintegrity")
+    .pause(1000)
+    .move(-15)
+    .type(" #mlops ")
+    .move(null, { to: "END" })
+    .type(" #dataops")
+    .pause(180)
+    // .delete(2)
+    .type(" #security")
+    // .pause(500)
+    .go();
+</script>
