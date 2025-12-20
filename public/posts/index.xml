@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on valdezdata</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on valdezdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Terms</title>
+      <link>http://localhost:1313/posts/data-terms/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/data-terms/</guid>
+      <description>Un listado de términos en el mundo de los datos que actualizo conforme voy aprendiendo nuevos conceptos.</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué ser un Arquitecto de Datos?</title>
+      <link>http://localhost:1313/posts/data-architect/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/data-architect/</guid>
+      <description>Enterate el por qué un Arquitecto de Datos puede tener un gran impacto y cuál es la diferencia entre otros roles en el mundo de los datos.</description>
+    </item>
+    
+  </channel>
+</rss>
