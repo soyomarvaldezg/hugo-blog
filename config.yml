@@ -34,7 +34,7 @@ params:
     enabled: true
     title: "Omar Valdez G"
     subtitle: ""
-    imageUrl: "static/profile/profile.png"
+    imageUrl: "profile.png"
     imageTitle: "Omar Valdez G"
     imageWidth: 200
     imageHeight: 200
@@ -47,7 +47,7 @@ params:
         url: "https://payhip.com/b/6zilp"
 
   label:
-    icon: "/favicon/favicon.ico"
+    icon: "favicon/favicon.ico"
     iconHeight: 35
     text: "~$ cd .."
 
@@ -71,11 +71,11 @@ params:
       url: "https://open.spotify.com/show/2RtBQW42FpVTViB7uMnAvQ"
 
   assets:
-    favicon: "/favicon/favicon.ico"
-    favicon16x16: "/favicon/favicon-16x16.png"
-    favicon32x32: "/favicon/favicon-32x32.png"
-    apple_touch_icon: "/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "/favicon/favicon-16x16.png"
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/apple-touch-icon.png"
+    safari_pinned_tab: "favicon/favicon-16x16.png"
 
   ShowReadingTime: true
   ShowShareButtons: false
