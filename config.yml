@@ -46,6 +46,10 @@ params:
         url: "/whoami/"
       - name: "eBook"
         url: "https://payhip.com/b/6zilp"
+      - name: "newsletter"
+        url: "/newsletter/"
+      - name: "cabin"
+        url: "https://withcabin.com/privacy/soyomarvaldezg.xyz"
 
   label:
     icon: "favicon/favicon.ico"
@@ -96,17 +100,21 @@ params:
 
 menu:
   main:
-    - name: 🔎 search
+    - name: 🔎
       url: /search/
       weight: 4
-    - name: • dotfiles
+    - name: • dots
       url: /dotfiles/
       weight: 5
     - name: • tags
       url: /tags/
       weight: 6
-    - name: • cabin
-      url: "https://withcabin.com/privacy/soyomarvaldezg.xyz"
+    # - name: • cabin
+    #   url: "https://withcabin.com/privacy/soyomarvaldezg.xyz"
+    #   weight: 7
+    - name: "• newsletter"
+      url: "newsletter"
+      weight: 8
     - name: • posts
       url: /posts/
-      weight: 7
+      weight: 9
