@@ -1,9 +1,9 @@
-baseURL: "https://valdezdata.com"
+baseURL: "https://soyomarvaldezg.xyz"
 languageCode: en-us
-title: valdezdata
+title: Omar Valdez G
 theme: PaperMod
 pagination:
-  pagerSize: 4
+  pagerSize: 5
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -20,28 +20,55 @@ outputs:
 
 params:
   env: production
-  title: valdezdata
+  title: Omar Valdez G
   Description:
-  author: Omar Valdez
-  description: "#dataengineering #datainfra #mlops #dataintegrity #dataops #security"
-  keywords: [blog, valdezdata, papermod]
+  author: Omar Valdez G
+  description: "#dataengineering #datainfra #ai #dataintegrity #dataops #security"
+  keywords: [blog, soyomarvaldezg, papermod]
   defaultTheme: dark
   disableThemeToggle: true
   enableComments: true
   cusdisAppId: ""
   social: true
+  profileMode:
+    enabled: true
+    title: "Omar Valdez G"
+    subtitle: ""
+    imageUrl: "/profile/profile.png"
+    imageTitle: "Omar Valdez G"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: "blog posts"
+        url: "/posts/"
+      - name: ">_ whoami"
+        url: "/whoami/"
+      - name: "eBook"
+        url: "https://payhip.com/b/6zilp"
 
   label:
     icon: "/favicon/favicon.ico"
-    iconHeight: 30
+    iconHeight: 35
     text: "~$ cd .."
 
-  homeInfoParams:
-    Title: "valdezdata"
+  # homeInfoParams:
+  #   Title: "Omar Valdez G"
 
   socialIcons:
+    - name: "youtube"
+      url: "https://youtube.com/@soyomarvaldezg"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/soyomarvaldezg"
+    - name: "twitter"
+      url: "https://x.com/soyomarvaldezg"
     - name: "github"
-      url: "https://github.com/valdezdata"
+      url: "https://github.com/soyomarvaldezg"
+    - name: "instagram"
+      url: "https://instagram.com/soyomarvaldezg"
+    - name: "tiktok"
+      url: "https://tiktok.com/@soyomarvaldezg"
+    - name: "spotify"
+      url: "https://open.spotify.com/show/2RtBQW42FpVTViB7uMnAvQ"
 
   assets:
     favicon: "/favicon/favicon.ico"
@@ -68,9 +95,15 @@ params:
 
 menu:
   main:
-    - name: ">_ whoami"
-      url: /whoami/
-      weight: 3
-    - name: Usos
-      url: "/usos/"
+    - name: 🔎 search
+      url: "/search/"
       weight: 4
+    - name: • dotfiles
+      url: "/dotfiles/"
+      weight: 5
+    - name: • tags
+      url: /tags/
+      weight: 6
+    - name: • posts
+      url: /posts/
+      weight: 7

@@ -1,43 +1,49 @@
 <div class="profile">
     {{- with site.Params.profileMode }}
     <div class="profile_inner">
-        {{- if .imageUrl -}}
+        {{- if .imageUrl }}
         {{- $img := "" }}
         {{- if not (urls.Parse .imageUrl).IsAbs }}
             {{- $img = resources.Get .imageUrl }}
         {{- end }}
         {{- if $img }}
-            {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
-            {{- if hugo.IsExtended -}}
-                {{- $processableFormats = $processableFormats | append "webp" -}}
-            {{- end -}}
+            {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") }}
+            {{- if hugo.IsExtended }}
+                {{- $processableFormats = $processableFormats | append "webp" }}
+            {{- end }}
             {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
             {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
                 {{- if (not (and (not .imageHeight) (not .imageWidth))) }}
                     {{- $img = $img.Resize (printf "%dx%d" .imageWidth .imageHeight) }}
                 {{- else if .imageHeight }}
                     {{- $img = $img.Resize (printf "x%d" .imageHeight) }}
-                {{ else if .imageWidth }}
+                {{- else if .imageWidth }}
                     {{- $img = $img.Resize (printf "%dx" .imageWidth) }}
-                {{ else }}
+                {{- else }}
                     {{- $img = $img.Resize "150x150" }}
                 {{- end }}
             {{- end }}
             <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
-        <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
-            height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
+            <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+                height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
+
         <h1>{{ .title | default site.Title | markdownify }}</h1>
-        <span>{{ .subtitle | markdownify }}</span>
-        {{- partial "social_icons.html" site.Params.socialIcons -}}
+        
+        <!-- TYPING ANIMATION CONTAINER -->
+        <span>
+            <p id="companionMethods"></p>
+        </span>
+        
+        {{- partial "socialicons.html" site.Params.socialIcons -}}
 
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}
-            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+            <a class="button" href="{{ .url }}" rel="noopener" title="{{ .name }}">
                 <span class="button-inner">
                     {{ .name }}
                     {{- if (findRE "://" .url) }}&nbsp;
@@ -52,10 +58,25 @@
             </a>
             {{- end }}
         </div>
-        <div style="font-size: small; font-style: italic; opacity: 80%; font-weight: lighter; margin: 10px;">
-            <!-- (Last updated: {{ now.Day }} {{ now.Month }} {{ now.Year }}) -->
-        </div>
         {{- end }}
     </div>
-    {{- end}}
+    {{- end }}
 </div>
+
+<!-- YOUR TYPING SCRIPT (Moved from homeinfo.html) -->
+<script>
+    new TypeIt("#companionMethods", {
+        speed: 80,
+        waitUntilVisible: true,
+    })
+    .type("#dataengineering ")
+    .type("#datainfra #dataintegrity")
+    .pause(1000)
+    .move(-15)
+    .type(" #ml #ai")
+    .move(null, { to: "END" })
+    .type(" #dataops")
+    .type(" #security")
+    .pause(500)
+    .go();
+</script>

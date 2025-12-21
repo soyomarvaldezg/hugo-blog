@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on valdezdata</title>
+    <title>Tags on Omar Valdez G</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on valdezdata</description>
+    <description>Recent content in Tags on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bigdata</title>
+      <link>http://localhost:1313/tags/bigdata/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duckdb</title>
+      <link>http://localhost:1313/tags/duckdb/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/duckdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Node</title>
+      <link>http://localhost:1313/tags/single-node/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/single-node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concept</title>
+      <link>http://localhost:1313/tags/concept/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/concept/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data Architect</title>
       <link>http://localhost:1313/tags/data-architect/</link>
@@ -26,15 +62,6 @@
     </item>
     
     <item>
-      <title>Conceptos De Datos</title>
-      <link>http://localhost:1313/tags/conceptos-de-datos/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/conceptos-de-datos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Concepts</title>
       <link>http://localhost:1313/tags/data-concepts/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
@@ -44,29 +71,11 @@
     </item>
     
     <item>
-      <title>Data Para Dummies</title>
-      <link>http://localhost:1313/tags/data-para-dummies/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-para-dummies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Terms</title>
       <link>http://localhost:1313/tags/data-terms/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/data-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Términos De Datos</title>
-      <link>http://localhost:1313/tags/t%C3%A9rminos-de-datos/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/t%C3%A9rminos-de-datos/</guid>
       <description></description>
     </item>
     

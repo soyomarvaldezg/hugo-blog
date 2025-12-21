@@ -2,8 +2,8 @@
 title: "¿Por qué ser un Arquitecto de Datos?"
 date: 2024-09-09
 summary: Enterate el por qué un Arquitecto de Datos puede tener un gran impacto y cuál es la diferencia entre otros roles en el mundo de los datos.
-tags: ["intro", "data architect"]
-author: "Omar Valdez"
+tags: ["intro", "data architect", "concept"]
+author: "Omar Valdez G"
 ShowToc: true
 draft: false
 ---
@@ -195,3 +195,5 @@ Abordando tanto aspectos estratégicos como tácticos, los Arquitectos de Datos 
 Su capacidad para evaluar compensaciones y desarrollar sistemas adaptables es esencial para satisfacer las necesidades de datos.
 
 Por último, los Arquitectos de Datos empoderan a las organizaciones para utilizar eficazmente sus recursos de datos, impulsando el valor empresarial y la innovación.
+
+&nbsp;

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>valdezdata</title>
+    <title>Omar Valdez G</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on valdezdata</description>
+    <description>Recent content on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
       <link>http://localhost:1313/posts/data-terms/</link>
@@ -14,6 +14,15 @@
       
       <guid>http://localhost:1313/posts/data-terms/</guid>
       <description>Un listado de términos en el mundo de los datos que actualizo conforme voy aprendiendo nuevos conceptos.</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #1 - Zero-Disk vs Distributed Processing</title>
+      <link>http://localhost:1313/posts/zero-disk-processing/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/zero-disk-processing/</guid>
+      <description>Cómo la simplicidad en almacenamiento y procesamiento redefine el costo y rendimiento en la analítica moderna.</description>
     </item>
     
     <item>
@@ -31,31 +40,29 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/whoami/</guid>
-      <description>&lt;p&gt;El término Big Data surgió hace tiempo y desde entonces, muchos han considerado que los datos son el &lt;em&gt;&amp;ldquo;nuevo petróleo&amp;rdquo;&lt;/em&gt;. Sin embargo, a pesar del gran interés que se tiene por explotarlo, la realidad es que aprovechar al máximo este recurso ha sido mucho más complicado:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Problemas fundamentales relacionados con la gestión, la calidad y la integridad de los datos.&lt;/li&gt;
-&lt;li&gt;Incidentes de seguridad que revelan información sensible y preocupaciones por no respetar la privacidad.&lt;/li&gt;
-&lt;li&gt;Monitorear la calidad de datos de manera efectiva para construir confianza.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Los datos suelen ser tratados como una preocupación secundaria en lugar de un activo crítico.&lt;/p&gt;</description>
+      <description>&lt;p&gt;El término Big Data surgió hace años y desde entonces muchos consideran que los datos son el &amp;ldquo;nuevo petróleo&amp;rdquo;. Pero en la realidad, aprovechar plenamente este recurso es complicado: abundan los retos en gestión, calidad, integridad y privacidad.&lt;/p&gt;
+&lt;p&gt;Los datos terminan siendo preocupación secundaria en vez de un activo crítico.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;What You See Is All There Is&amp;rdquo;
+– Daniel Kahneman, Thinking Fast and Slow&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Esta frase resume un peligro común: tomar decisiones importantes solo con la información que tenemos a la vista, sin examinar qué falta o podría estar mal.&lt;/p&gt;</description>
     </item>
     
-    
     <item>
-      <title>Usos</title>
-      <link>http://localhost:1313/usos/</link>
+      <title>dotfiles</title>
+      <link>http://localhost:1313/dotfiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/usos/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/usos.png&#34; alt=&#34;fastfetch&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;La razón principal por la que estoy haciendo esto es porque esperaba poder saber, durante el proceso de personalizar mi interfaz de usuario, cómo hacerlo lo más atractivo y eficiente posible.&lt;/p&gt;
+      <guid>http://localhost:1313/dotfiles/</guid>
+      <description>&lt;p&gt;La razón principal por la que estoy haciendo esto es porque esperaba poder saber, durante el proceso de personalizar mi interfaz de usuario, cómo hacerlo lo más atractivo y eficiente posible.&lt;/p&gt;
 &lt;p&gt;Como lo comentó Linus Torvalds:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Cualquier programa solo es tan bueno como sea útil. En el verdadero open source, tienes el derecho a controlar tu propio destino.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;NOTA: Generalmente se actualiza de forma eventual, por lo que NO puede estar al día esta información.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
+    
     
   </channel>
 </rss>

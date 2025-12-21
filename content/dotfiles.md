@@ -1,10 +1,8 @@
 ---
-title: "Usos"
-url: "/usos"
+title: "dotfiles"
+url: "/dotfiles"
 showToc: False
 ---
-
-![fastfetch](/images/usos.png)
 
 La razón principal por la que estoy haciendo esto es porque esperaba poder saber, durante el proceso de personalizar mi interfaz de usuario, cómo hacerlo lo más atractivo y eficiente posible.
 
@@ -16,24 +14,24 @@ _NOTA: Generalmente se actualiza de forma eventual, por lo que NO puede estar al
 
 ### Lo Básico
 
-- Para mi sistema operativo, uso [Arch Linux (btw)](https://archlinux.org/).
-- Para mi window manager, uso [Hyprland](https://hyprland.org/).
-- Para mi terminal, uso [Kitty](https://sw.kovidgoyal.net/kitty/graphics-protocol/).
+- Para mi sistema operativo, uso MacOs
+- Para mi window manager, uso [Aerospace](https://github.com/nikitabobko/AeroSpace).
+- Para mi terminal, uso [Ghostty](https://ghostty.org/).
 - Para mi shell, uso [Zsh](https://www.zsh.org/).
 
 ### Aplicaciones
 
-- Para mi launcher, uso [Rofi](https://davatorium.github.io/rofi/)
+- Para mi launcher, uso [Raycast](https://www.raycast.com/)
 - Para mi editor, uso [NeoVim](https://neovim.io/)
 - Para mi file manager, uso [Yazi](https://yazi-rs.github.io/)
 - Para mi terminal multiplexer, uso [Tmux](https://github.com/tmux/tmux/wiki/)
 
 ### Theme
 
-- Para mi theme, generalmente uso [Catppuccin](https://catppuccin.com/)
-- Para mi terminal font, uso [JetBrains Mono](https://www.nerdfonts.com/)
+- Para mi theme, generalmente uso [Tokyonight Storm](https://tokyonight.org/)
+- Para mi terminal font, uso [Iosevka Nerd Font](https://www.nerdfonts.com/)
 - Para mi shell prompt, uso [oh-my-posh](https://ohmyposh.dev/)
 
 &nbsp;
 
-Si deseas ver más de mis dotfiles, [haz click aquí](https://codeberg.org/thedatafixer/dotfiles)
+Si deseas ver más de mis dotfiles, [haz click aquí](https://github.com/soyomarvaldezg/dotfiles)

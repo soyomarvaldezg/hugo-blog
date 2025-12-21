@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on valdezdata</title>
+    <title>Posts on Omar Valdez G</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on valdezdata</description>
+    <description>Recent content in Posts on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
       <link>http://localhost:1313/posts/data-terms/</link>
@@ -14,6 +14,15 @@
       
       <guid>http://localhost:1313/posts/data-terms/</guid>
       <description>Un listado de términos en el mundo de los datos que actualizo conforme voy aprendiendo nuevos conceptos.</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #1 - Zero-Disk vs Distributed Processing</title>
+      <link>http://localhost:1313/posts/zero-disk-processing/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/zero-disk-processing/</guid>
+      <description>Cómo la simplicidad en almacenamiento y procesamiento redefine el costo y rendimiento en la analítica moderna.</description>
     </item>
     
     <item>
