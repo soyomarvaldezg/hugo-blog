@@ -97,14 +97,16 @@ params:
 menu:
   main:
     - name: 🔎 search
-      url: "/search/"
+      url: /search/
       weight: 4
     - name: • dotfiles
-      url: "/dotfiles/"
+      url: /dotfiles/
       weight: 5
     - name: • tags
       url: /tags/
       weight: 6
+    - name: • cabin
+      url: "https://withcabin.com/privacy/soyomarvaldezg.xyz"
     - name: • posts
       url: /posts/
       weight: 7
