@@ -5,6 +5,7 @@ summary: ¿Cuándo usar Airflow, Dagster o Prefect según tus necesidades?
 tags: ["airflow", "orchestration", "pipelines"]
 author: "Omar Valdez G"
 ShowToc: true
+weight: 5
 draft: false
 ---
 

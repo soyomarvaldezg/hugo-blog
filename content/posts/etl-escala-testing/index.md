@@ -5,6 +5,7 @@ summary: Por qué tu pipeline de dbt está costando $500 por iteración
 tags: ["dbt", "elt", "data-warehouse"]
 author: "Omar Valdez G"
 ShowToc: true
+weight: 4
 draft: false
 ---
 

@@ -5,6 +5,7 @@ summary: Cómo la simplicidad en almacenamiento y procesamiento redefine el cost
 tags: ["single-node", "duckdb", "bigdata"]
 author: "Omar Valdez G"
 ShowToc: true
+weight: 3
 draft: false
 ---
 

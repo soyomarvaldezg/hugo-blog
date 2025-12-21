@@ -2,8 +2,8 @@ baseURL: "https://soyomarvaldezg.xyz"
 languageCode: en-us
 title: Omar Valdez G
 theme: PaperMod
-pagination:
-  pagerSize: 5
+# pagination:
+#   pagerSize: 10
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -28,7 +28,8 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   enableComments: true
-  cusdisAppId: ""
+  cusdisAppId: "f9b750aa-55fe-4da9-82cf-45aa511cea20"
+  cusdisLang: "es" # Optional, default is en
   social: true
   profileMode:
     enabled: true

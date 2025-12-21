@@ -4,6 +4,7 @@ date: 2024-09-09
 summary: Enterate el por qué un Arquitecto de Datos puede tener un gran impacto y cuál es la diferencia entre otros roles en el mundo de los datos.
 tags: ["intro", "data architect", "concept"]
 author: "Omar Valdez G"
+weight: 2
 ShowToc: true
 draft: false
 ---

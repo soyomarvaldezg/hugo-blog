@@ -5,6 +5,7 @@ summary: ¿Cuándo necesitas realmente una base de datos vectorial?
 tags: ["database", "rag", "vectorial"]
 author: "Omar Valdez G"
 ShowToc: true
+weight: 6
 draft: false
 ---
 
