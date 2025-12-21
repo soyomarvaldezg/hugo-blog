@@ -34,7 +34,7 @@ params:
     enabled: true
     title: "Omar Valdez G"
     subtitle: ""
-    imageUrl: "/profile/profile.png"
+    imageUrl: "static/profile/profile.png"
     imageTitle: "Omar Valdez G"
     imageWidth: 200
     imageHeight: 200
