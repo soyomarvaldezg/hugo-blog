@@ -6,59 +6,158 @@
     <description>Recent content on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
-      <link>http://localhost:1313/posts/data-terms/</link>
+      <link>http://localhost:1313/posts/01-data-terms/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/data-terms/</guid>
+      <guid>http://localhost:1313/posts/01-data-terms/</guid>
       <description>Un listado de términos en el mundo de los datos que actualizo conforme voy aprendiendo nuevos conceptos.</description>
     </item>
     
     <item>
       <title>¿Por qué ser un Arquitecto de Datos?</title>
-      <link>http://localhost:1313/posts/data-architect/</link>
+      <link>http://localhost:1313/posts/02-data-architect/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/data-architect/</guid>
+      <guid>http://localhost:1313/posts/02-data-architect/</guid>
       <description>Enterate el por qué un Arquitecto de Datos puede tener un gran impacto y cuál es la diferencia entre otros roles en el mundo de los datos.</description>
     </item>
     
     <item>
       <title>Pregunta #1 - Zero-Disk vs Distributed Processing</title>
-      <link>http://localhost:1313/posts/zero-disk-processing/</link>
+      <link>http://localhost:1313/posts/q-zero-disk-processing/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zero-disk-processing/</guid>
+      <guid>http://localhost:1313/posts/q-zero-disk-processing/</guid>
       <description>Cómo la simplicidad en almacenamiento y procesamiento redefine el costo y rendimiento en la analítica moderna.</description>
     </item>
     
     <item>
       <title>Pregunta #2 - ELT a Escala y Testing en Producción</title>
-      <link>http://localhost:1313/posts/etl-escala-testing/</link>
+      <link>http://localhost:1313/posts/q-etl-escala-testing/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/etl-escala-testing/</guid>
+      <guid>http://localhost:1313/posts/q-etl-escala-testing/</guid>
       <description>Por qué tu pipeline de dbt está costando $500 por iteración</description>
     </item>
     
     <item>
       <title>Pregunta #3 - Arquitecturas de Orquestación: Task-Centric vs Data-Centric</title>
-      <link>http://localhost:1313/posts/arq-orquestacion-task-data/</link>
+      <link>http://localhost:1313/posts/q-arq-orquestacion-task-data/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/arq-orquestacion-task-data/</guid>
+      <guid>http://localhost:1313/posts/q-arq-orquestacion-task-data/</guid>
       <description>¿Cuándo usar Airflow, Dagster o Prefect según tus necesidades?</description>
     </item>
     
     <item>
       <title>Pregunta #4 - Almacenamiento Portátil de Embeddings con Parquet</title>
-      <link>http://localhost:1313/posts/almacenamiento-embeddings-parquet/</link>
+      <link>http://localhost:1313/posts/q-almacenamiento-embeddings-parquet/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/almacenamiento-embeddings-parquet/</guid>
+      <guid>http://localhost:1313/posts/q-almacenamiento-embeddings-parquet/</guid>
       <description>¿Cuándo necesitas realmente una base de datos vectorial?</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #5 - Modern ELT Testing en Producción: dbt vs. SQLMesh</title>
+      <link>http://localhost:1313/posts/q-modern-etl-testing-dbt-sqlmesh/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-modern-etl-testing-dbt-sqlmesh/</guid>
+      <description>Elección entre frameworks de transformación SQL para escalar fiabilidad y eficiencia en producción.</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #6 - Tokenización en LLMs Multilingües</title>
+      <link>http://localhost:1313/posts/q-tokenizacion-llms-multilinguies/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-tokenizacion-llms-multilinguies/</guid>
+      <description>Optimización de Costos y Contexto</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #7 - Arquitectura Medallion en Data Lakehouse</title>
+      <link>http://localhost:1313/posts/q-arquitectura-medallion-warehouse/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-arquitectura-medallion-warehouse/</guid>
+      <description>Bronze, Silver y Gold en Google Cloud</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #8 - Dead-Letter Queue en Pipelines de Producción</title>
+      <link>http://localhost:1313/posts/q-dead-letter-pipelines-prod/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-dead-letter-pipelines-prod/</guid>
+      <description>Manejo robusto de errores en Apache Beam/Dataflow</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #9 - Criptogramas Dinámicos para Prevención de Replay Attacks</title>
+      <link>http://localhost:1313/posts/q-criptogramas-prevencion-replay-attacks/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-criptogramas-prevencion-replay-attacks/</guid>
+      <description>Arquitectura de Seguridad en Sistemas de Pago Móvil</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #10 Procesos vs Threads en Arquitecturas de Alta Concurrencia</title>
+      <link>http://localhost:1313/posts/q-procesos-threads-arqs-alta-concurrencia/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-procesos-threads-arqs-alta-concurrencia/</guid>
+      <description>El trade-off fundamental que define la estabilidad y performance de tu sistema</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #11 - Design-Time vs Runtime Lineage: ¿Cuándo Necesitas Cada Uno?</title>
+      <link>http://localhost:1313/posts/q-design-runtime-lineage/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-design-runtime-lineage/</guid>
+      <description>La diferencia que previene millones en pérdidas por cambios fallidos</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #12 - Arquitectura de Procesamiento de Documentos con IA</title>
+      <link>http://localhost:1313/posts/q-arq-procesamiento-docs-ai/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-arq-procesamiento-docs-ai/</guid>
+      <description>Separación de responsabilidades en sistemas de extracción con LLMs</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #13 - Selección de Patrones de Procesamiento en IDP con GenAI</title>
+      <link>http://localhost:1313/posts/q-seleccion-patrones-idp-genai/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-seleccion-patrones-idp-genai/</guid>
+      <description>Cómo elegir entre simplicidad, control y especialización</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #14 - Búsqueda Semántica vs Keywords</title>
+      <link>http://localhost:1313/posts/q-busqueda-semantica-keywords/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-busqueda-semantica-keywords/</guid>
+      <description>Cómo los sistemas de IA entienden intención, no solo palabras</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #15 - Particionamiento de Datos en S3</title>
+      <link>http://localhost:1313/posts/q-particionamiento-datos-s3/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-particionamiento-datos-s3/</guid>
+      <description>Evita el anti-patrón que ralentiza tus queries en 20×</description>
     </item>
     
     <item>

@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-warehouse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pregunta #2 - ELT a Escala y Testing en Producción</title>
-      <link>http://localhost:1313/posts/etl-escala-testing/</link>
+      <link>http://localhost:1313/posts/q-etl-escala-testing/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/etl-escala-testing/</guid>
+      <guid>http://localhost:1313/posts/q-etl-escala-testing/</guid>
       <description>Por qué tu pipeline de dbt está costando $500 por iteración</description>
     </item>
     

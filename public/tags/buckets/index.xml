@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buckets on Omar Valdez G</title>
+    <link>http://localhost:1313/tags/buckets/</link>
+    <description>Recent content in Buckets on Omar Valdez G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/buckets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregunta #15 - Particionamiento de Datos en S3</title>
+      <link>http://localhost:1313/posts/q-particionamiento-datos-s3/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-particionamiento-datos-s3/</guid>
+      <description>Evita el anti-patrón que ralentiza tus queries en 20×</description>
+    </item>
+    
+  </channel>
+</rss>

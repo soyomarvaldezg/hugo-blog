@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bigdata/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pregunta #1 - Zero-Disk vs Distributed Processing</title>
-      <link>http://localhost:1313/posts/zero-disk-processing/</link>
+      <link>http://localhost:1313/posts/q-zero-disk-processing/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zero-disk-processing/</guid>
+      <guid>http://localhost:1313/posts/q-zero-disk-processing/</guid>
       <description>Cómo la simplicidad en almacenamiento y procesamiento redefine el costo y rendimiento en la analítica moderna.</description>
     </item>
     

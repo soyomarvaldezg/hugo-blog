@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pipeline on Omar Valdez G</title>
+    <link>http://localhost:1313/tags/pipeline/</link>
+    <description>Recent content in Pipeline on Omar Valdez G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregunta #8 - Dead-Letter Queue en Pipelines de Producción</title>
+      <link>http://localhost:1313/posts/q-dead-letter-pipelines-prod/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-dead-letter-pipelines-prod/</guid>
+      <description>Manejo robusto de errores en Apache Beam/Dataflow</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-concepts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
-      <link>http://localhost:1313/posts/data-terms/</link>
+      <link>http://localhost:1313/posts/01-data-terms/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/data-terms/</guid>
+      <guid>http://localhost:1313/posts/01-data-terms/</guid>
       <description>Un listado de términos en el mundo de los datos que actualizo conforme voy aprendiendo nuevos conceptos.</description>
     </item>
     

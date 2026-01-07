@@ -6,7 +6,7 @@
   --header-height: 60px;
   --footer-height: 60px;
   --radius: 8px;
-  --theme: rgba(245,245,245,255);
+  --theme: rgba(245, 245, 245, 255);
   --entry: rgb(255, 255, 255);
   --primary: #f07d9d;
   --secondary: #252522;
@@ -18,9 +18,9 @@
 }
 
 .dark {
-  --theme: rgba(46,49,66,255); /*background*/
+  --theme: rgba(46, 49, 66, 255); /*background*/
   --entry: rgb(31, 36, 37); /*post, ToC background*/
-  --content: rgb(221, 221, 221); /*main text*/
+  --content: #c9c4f2; /*main text*/
   --hljs-bg: rgb(31, 37, 33); /*code block background*/
   --border: rgba(122, 122, 122, 0.664); /*tag and ToC border*/
 }

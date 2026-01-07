@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Runtime on Omar Valdez G</title>
+    <link>http://localhost:1313/tags/runtime/</link>
+    <description>Recent content in Runtime on Omar Valdez G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/runtime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregunta #11 - Design-Time vs Runtime Lineage: ¿Cuándo Necesitas Cada Uno?</title>
+      <link>http://localhost:1313/posts/q-design-runtime-lineage/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-design-runtime-lineage/</guid>
+      <description>La diferencia que previene millones en pérdidas por cambios fallidos</description>
+    </item>
+    
+  </channel>
+</rss>

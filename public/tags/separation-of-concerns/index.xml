@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Separation-of-Concerns on Omar Valdez G</title>
+    <link>http://localhost:1313/tags/separation-of-concerns/</link>
+    <description>Recent content in Separation-of-Concerns on Omar Valdez G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/separation-of-concerns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregunta #12 - Arquitectura de Procesamiento de Documentos con IA</title>
+      <link>http://localhost:1313/posts/q-arq-procesamiento-docs-ai/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-arq-procesamiento-docs-ai/</guid>
+      <description>Separación de responsabilidades en sistemas de extracción con LLMs</description>
+    </item>
+    
+  </channel>
+</rss>
