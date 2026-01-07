@@ -44,7 +44,7 @@ params:
         url: "/posts/"
       - name: ">_ whoami"
         url: "/whoami/"
-      - name: "eBook"
+      - name: "eBook gratis"
         url: "https://payhip.com/b/6zilp"
       - name: "newsletter"
         url: "/newsletter/"
