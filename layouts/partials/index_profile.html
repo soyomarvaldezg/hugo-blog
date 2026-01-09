@@ -32,12 +32,11 @@
         {{- end }}
 
         <h1>{{ .title | default site.Title | markdownify }}</h1>
-        
-        <!-- TYPING ANIMATION CONTAINER -->
+
         <span>
             <p id="companionMethods"></p>
         </span>
-        
+
         {{- partial "socialicons.html" site.Params.socialIcons -}}
 
         {{- with .buttons }}
@@ -63,7 +62,6 @@
     {{- end }}
 </div>
 
-<!-- YOUR TYPING SCRIPT (Moved from homeinfo.html) -->
 <script>
     new TypeIt("#companionMethods", {
         speed: 80,

@@ -109,3 +109,20 @@ header nav a {
   justify-content: center;
   align-items: center;
 }
+
+/* Hide language switch separator when no languages available */
+.lang-switch li:only-child {
+  display: none;
+}
+
+/* Newsletter subscription box styling */
+.newsletter-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+/* Add spacing before cusdis comments */
+#cusdis_thread {
+  margin-top: 30px;
+}

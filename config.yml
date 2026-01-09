@@ -2,6 +2,7 @@ baseURL: "https://soyomarvaldezg.xyz"
 languageCode: en-us
 title: Omar Valdez G
 theme: PaperMod
+titleSeparator: ""
 # pagination:
 #   pagerSize: 10
 
