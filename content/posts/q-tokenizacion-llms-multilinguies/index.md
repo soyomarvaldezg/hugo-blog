@@ -19,13 +19,13 @@ Estás construyendo un sistema de RAG que procesa documentos en inglés y japon�
 
 &nbsp;
 
-A) La arquitectura del Transformer no está optimizada para caracteres no latinos.
+- A) La arquitectura del Transformer no está optimizada para caracteres no latinos.
 
-B) Los embeddings vectoriales para el japonés requieren más dimensiones, consumiendo más memoria.
+- B) Los embeddings vectoriales para el japonés requieren más dimensiones, consumiendo más memoria.
 
-C) La tokenización de lenguas sin espacios claros (como el japonés) es inherentemente menos eficiente, generando más tokens por carácter.
+- C) La tokenización de lenguas sin espacios claros (como el japonés) es inherentemente menos eficiente, generando más tokens por carácter.
 
-D) Los modelos de SentencePiece aplican un recargo multiplicativo a los tokens no ingleses.
+- D) Los modelos de SentencePiece aplican un recargo multiplicativo a los tokens no ingleses.
 
 &nbsp;
 

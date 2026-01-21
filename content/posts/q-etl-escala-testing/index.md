@@ -18,13 +18,10 @@ Tu equipo maneja 800 transformaciones dbt en Snowflake. Cada vez que debuggean u
 **¿Cuál es la solución más efectiva a largo plazo?**
 &nbsp;
 
-A) Implementar más herramientas de observabilidad y monitoring para detectar errores más rápido antes de que lleguen a producción
-
-B) Contratar más data engineers para distribuir la carga de trabajo y reducir el tiempo de debugging por persona
-
-C) Establecer un entorno de staging con datos anonimizados y capacidades de desarrollo local antes de cualquier ejecución en warehouse
-
-D) Migrar a un warehouse más económico como BigQuery o Redshift para reducir el costo por query
+- A) Implementar más herramientas de observabilidad y monitoring para detectar errores más rápido antes de que lleguen a producción
+- B) Contratar más data engineers para distribuir la carga de trabajo y reducir el tiempo de debugging por persona
+- C) Establecer un entorno de staging con datos anonimizados y capacidades de desarrollo local antes de cualquier ejecución en warehouse
+- D) Migrar a un warehouse más económico como BigQuery o Redshift para reducir el costo por query
 
 &nbsp;
 

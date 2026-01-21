@@ -19,13 +19,10 @@ Estás desarrollando un sistema de búsqueda semántica para documentación inte
 
 &nbsp;
 
-A) Implementar Qdrant con índices HNSW en Docker, priorizando latencia sub‑1 ms sobre simplicidad operativa
-
-B) Usar archivos Parquet con Polars para búsqueda lineal, aprovechando el formato columnar y conversión zero‑copy a NumPy
-
-C) Almacenar embeddings en PostgreSQL con extensión pgvector y índices HNSW para obtener 471 QPS a escala
-
-D) Guardar embeddings en archivos CSV con pandas por familiaridad del equipo y facilidad de debugging
+- A) Implementar Qdrant con índices HNSW en Docker, priorizando latencia sub‑1 ms sobre simplicidad operativa
+- B) Usar archivos Parquet con Polars para búsqueda lineal, aprovechando el formato columnar y conversión zero‑copy a NumPy
+- C) Almacenar embeddings en PostgreSQL con extensión pgvector y índices HNSW para obtener 471 QPS a escala
+- D) Guardar embeddings en archivos CSV con pandas por familiaridad del equipo y facilidad de debugging
 
 &nbsp;
 

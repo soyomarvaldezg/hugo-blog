@@ -17,13 +17,10 @@ En una organización que ejecuta miles de transformaciones SQL diarias y enfrent
 
 &nbsp;
 
-A) Adoptar dbt exclusivamente, aprovechando su ecosistema maduro y ejecutar tests completos con recargas totales en cada CI.
-
-B) Usar SQLMesh, que realiza seguimiento semántico y de dependencias a nivel columna, ejecuta sólo lo necesario y automatiza backfills, reduciendo costos CI significativamente.
-
-C) Mantener pruebas en producción sin entornos aislados y confiar en la calidad del código para evitar errores, minimizando infraestructura adicional.
-
-D) Utilizar una herramienta híbrida que combine dbt para lógica de transformación y SQLMesh para orquestación y manejo de estado, balanceando costos y ecosistema.
+- A) Adoptar dbt exclusivamente, aprovechando su ecosistema maduro y ejecutar tests completos con recargas totales en cada CI.
+- B) Usar SQLMesh, que realiza seguimiento semántico y de dependencias a nivel columna, ejecuta sólo lo necesario y automatiza backfills, reduciendo costos CI significativamente.
+- C) Mantener pruebas en producción sin entornos aislados y confiar en la calidad del código para evitar errores, minimizando infraestructura adicional.
+- D) Utilizar una herramienta híbrida que combine dbt para lógica de transformación y SQLMesh para orquestación y manejo de estado, balanceando costos y ecosistema.
 
 &nbsp;
 

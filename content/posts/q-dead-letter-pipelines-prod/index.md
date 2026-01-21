@@ -23,13 +23,10 @@ Después de 3 horas de ejecución, descubres que 150 registros tienen timestamps
 
 &nbsp;
 
-A) Reiniciar el pipeline después de corregir manualmente los 150 registros problemáticos en el bucket de origen
-
-B) Implementar un dead-letter queue que capture registros con errores en una tabla separada de BigQuery y permita que el pipeline continúe procesando los registros válidos
-
-C) Agregar un bloque try-catch en el DoFn que silencie todas las excepciones y registre los errores en logs para revisión posterior
-
-D) Modificar la validación para aceptar cualquier formato de timestamp y realizar la limpieza posteriormente en BigQuery con SQL
+- A) Reiniciar el pipeline después de corregir manualmente los 150 registros problemáticos en el bucket de origen
+- B) Implementar un dead-letter queue que capture registros con errores en una tabla separada de BigQuery y permita que el pipeline continúe procesando los registros válidos
+- C) Agregar un bloque try-catch en el DoFn que silencie todas las excepciones y registre los errores en logs para revisión posterior
+- D) Modificar la validación para aceptar cualquier formato de timestamp y realizar la limpieza posteriormente en BigQuery con SQL
 
 &nbsp;
 

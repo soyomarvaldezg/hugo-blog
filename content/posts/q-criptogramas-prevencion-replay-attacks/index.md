@@ -21,13 +21,10 @@ Necesitas implementar una solución que genere pruebas criptográficas únicas p
 
 &nbsp;
 
-A) Generar un hash SHA-256 del Device Account Number (DAN) y enviarlo en cada transacción junto con un timestamp del servidor
-
-B) Crear un criptograma único combinando DAN + detalles de transacción (monto, merchant ID) + nonce impredecible, validado matemáticamente por la red de pagos
-
-C) Implementar tokens JWT con expiración de 5 minutos firmados con clave simétrica compartida entre dispositivo y servidor
-
-D) Almacenar un contador incremental en el dispositivo que se valida contra una base de datos centralizada en cada transacción
+- A) Generar un hash SHA-256 del Device Account Number (DAN) y enviarlo en cada transacción junto con un timestamp del servidor
+- B) Crear un criptograma único combinando DAN + detalles de transacción (monto, merchant ID) + nonce impredecible, validado matemáticamente por la red de pagos
+- C) Implementar tokens JWT con expiración de 5 minutos firmados con clave simétrica compartida entre dispositivo y servidor
+- D) Almacenar un contador incremental en el dispositivo que se valida contra una base de datos centralizada en cada transacción
 
 &nbsp;
 

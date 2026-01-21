@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
       <link>http://localhost:1313/posts/01-data-terms/</link>
@@ -14,6 +14,69 @@
       
       <guid>http://localhost:1313/posts/01-data-terms/</guid>
       <description>Un listado de términos en el mundo de los datos que actualizo conforme voy aprendiendo nuevos conceptos.</description>
+    </item>
+    
+    <item>
+      <title>El Roadmap Data Engineering que NADIE te enseña  🚀</title>
+      <link>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</guid>
+      <description>Aprender Python, SQL y Cloud no te convierte en un Data Engineer; te convierte en alguien peligroso si no entiendes el ciclo de vida de los datos. Descubre el roadmap real dividido por etapas, desde la comprensión de fuentes hasta el consumo, pasando por patrones de integración y modelado.</description>
+    </item>
+    
+    <item>
+      <title>Tu query no devuelve nada? Culpa a NULL 🤫</title>
+      <link>http://localhost:1313/posts/08-query-culpa-null/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/08-query-culpa-null/</guid>
+      <description>NULL no es una cadena vacía, es la ausencia de valor. Aprende por qué tus filtros fallan al usar comparaciones comunes, cómo usar &lt;code&gt;IS NULL&lt;/code&gt; correctamente y evita errores silenciosos en tus consultas SQL.</description>
+    </item>
+    
+    <item>
+      <title>Por QUÉ tu MODELADO FALLA (No es lo que Piensas) 🔥</title>
+      <link>http://localhost:1313/posts/07-por-que-modelado-falla/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/07-por-que-modelado-falla/</guid>
+      <description>El 60% de los proyectos de datos fallan no por la tecnología, sino por decisiones de modelado incorrectas al inicio. Descubre los tres pilares del modelado efectivo, la importancia de la granularidad y un framework práctico para asegurar la escalabilidad de tu arquitectura.</description>
+    </item>
+    
+    <item>
+      <title>La Realidad Detrás de la IA: Más Allá del Vibe Coding 💡</title>
+      <link>http://localhost:1313/posts/06-ia-vibe-coding/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/06-ia-vibe-coding/</guid>
+      <description>Explora los límites de la Inteligencia Artificial, los peligros del &amp;ldquo;Vibe Coding&amp;rdquo; sin fundamentos y por qué el conocimiento profundo y la visión sistémica son más críticos que nunca en la era de la automatización.</description>
+    </item>
+    
+    <item>
+      <title>La Trampa del Stack Moderno de Datos: Lo que Nadie te Cuenta</title>
+      <link>http://localhost:1313/posts/05-trampa-stack-moderno-datos/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/05-trampa-stack-moderno-datos/</guid>
+      <description>El Stack Moderno de Datos resolvió problemas de escalabilidad y costo, pero trajo nuevos desafíos silenciosos, que son complejidad operativa, falta de calidad de datos y desconexión entre equipos. Descubre cómo evitar la &amp;ldquo;trampa&amp;rdquo; enfocándote en la estrategia y no solo en las herramientas.</description>
+    </item>
+    
+    <item>
+      <title>Cómo Nació la Arquitectura de Datos Moderna</title>
+      <link>http://localhost:1313/posts/04-como-nacio-arq-moderna/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/04-como-nacio-arq-moderna/</guid>
+      <description>Un recorrido histórico desde los Data Warehouses relacionales on-premise hasta los Data Lakes y el moderno Data Lakehouse. Descubre cómo la nube y el Big Data cambiaron las reglas del juego.</description>
+    </item>
+    
+    <item>
+      <title>ETL y ELT: ¿Cuándo y Por qué usar cada uno?</title>
+      <link>http://localhost:1313/posts/03-etl-elt-diferencia/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/03-etl-elt-diferencia/</guid>
+      <description>Descubre las diferencias clave entre los procesos ETL y ELT, su historia, por qué la nube cambió el paradigma de los datos y cuál es el enfoque moderno para la arquitectura de datos.</description>
     </item>
     
     <item>
@@ -77,6 +140,15 @@
       
       <guid>http://localhost:1313/posts/q-tokenizacion-llms-multilinguies/</guid>
       <description>Optimización de Costos y Contexto</description>
+    </item>
+    
+    <item>
+      <title>Analyst vs Engineer vs Scientist: Diferencias Reales 🎯</title>
+      <link>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</guid>
+      <description>¿No sabes si ser Data Analyst, Data Engineer o Data Scientist? Descubre las diferencias reales en sus día a día, el stack tecnológico de cada uno y cómo elegir el camino correcto para no perder meses aprendiendo skills equivocados.</description>
     </item>
     
     <item>

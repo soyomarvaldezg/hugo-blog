@@ -23,13 +23,10 @@ Un cowoker propone migrar a DuckDB serverless en Lambda/Fargate con los datos en
 
 &nbsp;
 
-A) S3 usa compresión automática que reduce el volumen de datos transferidos en 90%
-
-B) El overhead de coordinación distribuida (shuffles, serialización, startup) supera la penalización de latencia de S3 para queries <100GB
-
-C) Lambda tiene acceso directo a memoria RAM de S3 mediante VPC endpoints privados
-
-D) DuckDB usa GPU acceleration que compensa la latencia de red de object storage
+- A) S3 usa compresión automática que reduce el volumen de datos transferidos en 90%
+- B) El overhead de coordinación distribuida (shuffles, serialización, startup) supera la penalización de latencia de S3 para queries <100GB
+- C) Lambda tiene acceso directo a memoria RAM de S3 mediante VPC endpoints privados
+- D) DuckDB usa GPU acceleration que compensa la latencia de red de object storage
 
 &nbsp;
 

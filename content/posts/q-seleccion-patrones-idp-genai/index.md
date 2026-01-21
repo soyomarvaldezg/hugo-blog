@@ -21,10 +21,10 @@ AWS ofrece tres patrones para su GenAI IDP Accelerator: Pattern 1 usa Amazon Bed
 
 &nbsp;
 
-A) Pattern 1 para todo: simplifica operación y acelera deployment
-B) Pattern 2 para todo: maximiza control y optimización de costos
-C) Pattern 3 para todo: garantiza máxima accuracy en todos los documentos
-D) Arquitectura híbrida: Pattern 1 para facturas, Pattern 2 para contratos, Pattern 3 para reportes médicos
+- A) Pattern 1 para todo: simplifica operación y acelera deployment
+- B) Pattern 2 para todo: maximiza control y optimización de costos
+- C) Pattern 3 para todo: garantiza máxima accuracy en todos los documentos
+- D) Arquitectura híbrida: Pattern 1 para facturas, Pattern 2 para contratos, Pattern 3 para reportes médicos
 
 &nbsp;
 

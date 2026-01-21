@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Career on Omar Valdez G</title>
+    <link>http://localhost:1313/tags/career/</link>
+    <description>Recent content in Career on Omar Valdez G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Roadmap Data Engineering que NADIE te enseña  🚀</title>
+      <link>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</guid>
+      <description>Aprender Python, SQL y Cloud no te convierte en un Data Engineer; te convierte en alguien peligroso si no entiendes el ciclo de vida de los datos. Descubre el roadmap real dividido por etapas, desde la comprensión de fuentes hasta el consumo, pasando por patrones de integración y modelado.</description>
+    </item>
+    
+    <item>
+      <title>La Realidad Detrás de la IA: Más Allá del Vibe Coding 💡</title>
+      <link>http://localhost:1313/posts/06-ia-vibe-coding/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/06-ia-vibe-coding/</guid>
+      <description>Explora los límites de la Inteligencia Artificial, los peligros del &amp;ldquo;Vibe Coding&amp;rdquo; sin fundamentos y por qué el conocimiento profundo y la visión sistémica son más críticos que nunca en la era de la automatización.</description>
+    </item>
+    
+    <item>
+      <title>Analyst vs Engineer vs Scientist: Diferencias Reales 🎯</title>
+      <link>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</guid>
+      <description>¿No sabes si ser Data Analyst, Data Engineer o Data Scientist? Descubre las diferencias reales en sus día a día, el stack tecnológico de cada uno y cómo elegir el camino correcto para no perder meses aprendiendo skills equivocados.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -18,13 +18,10 @@ Tu equipo en una fintech está migrando de scripts manuales a un orquestador ent
 **¿Qué arquitectura y herramienta deberías seleccionar para balancear estos requisitos contradictorios?**
 &nbsp;
 
-A) Airflow – Maneja la heterogeneidad de tareas y tiene SSO/RBAC nativo en la versión open source, pero requerirás implementar linaje manualmente con herramientas como OpenLineage o Marquez
-
-B) Dagster – Proporciona linaje automático y assets como first‑class citizens, perfecto para compliance, pero SSO y RBAC están bloqueados en la versión enterprise de pago
-
-C) Prefect – Ofrece orquestación reactiva en tiempo real y arquitectura moderna, pero carece de linaje nativo de datos y las features de seguridad requieren licencia enterprise
-
-D) Kestra – Combina flexibilidad de workflows heterogéneos con YAML declarativo, pero tiene comunidad pequeña (<10 contribuidores activos) y SSO/RBAC solo en versión enterprise
+- A) Airflow – Maneja la heterogeneidad de tareas y tiene SSO/RBAC nativo en la versión open source, pero requerirás implementar linaje manualmente con herramientas como OpenLineage o Marquez
+- B) Dagster – Proporciona linaje automático y assets como first‑class citizens, perfecto para compliance, pero SSO y RBAC están bloqueados en la versión enterprise de pago
+- C) Prefect – Ofrece orquestación reactiva en tiempo real y arquitectura moderna, pero carece de linaje nativo de datos y las features de seguridad requieren licencia enterprise
+- D) Kestra – Combina flexibilidad de workflows heterogéneos con YAML declarativo, pero tiene comunidad pequeña (<10 contribuidores activos) y SSO/RBAC solo en versión enterprise
 
 &nbsp;
 

@@ -25,13 +25,10 @@ El equipo debate dónde almacenar cada versión de los datos y qué herramientas
 
 &nbsp;
 
-A) Almacenar todo en BigQuery usando tablas nativas; ejecutar limpieza con SQL scheduled queries; crear vistas materializadas para agregaciones; todos los usuarios consultan las mismas tablas
-
-B) Ingestar JSON crudo a GCS (Bronze); usar Spark en Dataproc para limpiar y validar hacia GCS (Silver) en Parquet; cargar agregaciones a BigQuery (Gold); científicos acceden Silver, ejecutivos Gold
-
-C) Cargar JSON directamente a MongoDB para queries operacionales; replicar a BigQuery usando CDC; ejecutar todas las transformaciones en dbt; mantener una sola copia final
-
-D) Procesar todo en Dataflow streaming antes de almacenar; escribir únicamente la versión final limpia y agregada a BigQuery; eliminar datos crudos para ahorrar costos
+- A) Almacenar todo en BigQuery usando tablas nativas; ejecutar limpieza con SQL scheduled queries; crear vistas materializadas para agregaciones; todos los usuarios consultan las mismas tablas
+- B) Ingestar JSON crudo a GCS (Bronze); usar Spark en Dataproc para limpiar y validar hacia GCS (Silver) en Parquet; cargar agregaciones a BigQuery (Gold); científicos acceden Silver, ejecutivos Gold
+- C) Cargar JSON directamente a MongoDB para queries operacionales; replicar a BigQuery usando CDC; ejecutar todas las transformaciones en dbt; mantener una sola copia final
+- D) Procesar todo en Dataflow streaming antes de almacenar; escribir únicamente la versión final limpia y agregada a BigQuery; eliminar datos crudos para ahorrar costos
 
 &nbsp;
 

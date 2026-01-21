@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lakehouse/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cómo Nació la Arquitectura de Datos Moderna</title>
+      <link>http://localhost:1313/posts/04-como-nacio-arq-moderna/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/04-como-nacio-arq-moderna/</guid>
+      <description>Un recorrido histórico desde los Data Warehouses relacionales on-premise hasta los Data Lakes y el moderno Data Lakehouse. Descubre cómo la nube y el Big Data cambiaron las reglas del juego.</description>
+    </item>
+    
+    <item>
       <title>Pregunta #7 - Arquitectura Medallion en Data Lakehouse</title>
       <link>http://localhost:1313/posts/q-arquitectura-medallion-warehouse/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>

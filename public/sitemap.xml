@@ -5,6 +5,24 @@
     <loc>http://localhost:1313/posts/01-data-terms/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/08-query-culpa-null/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/06-ia-vibe-coding/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/05-trampa-stack-moderno-datos/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/04-como-nacio-arq-moderna/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/03-etl-elt-diferencia/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/02-data-architect/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,8 +41,14 @@
     <loc>http://localhost:1313/posts/q-modern-etl-testing-dbt-sqlmesh/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/07-por-que-modelado-falla/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/q-tokenizacion-llms-multilinguies/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</loc>
+    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/q-arquitectura-medallion-warehouse/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
@@ -53,22 +77,37 @@
     <loc>http://localhost:1313/posts/q-particionamiento-datos-s3/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/buckets/</loc>
-    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-engineering/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fundamentals/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lifecycle/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/roadmap/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buckets/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/partitioning/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/s3/</loc>
-    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
@@ -89,7 +128,16 @@
     <loc>http://localhost:1313/tags/genai/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/analyst/</loc>
+    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/engineer/</loc>
+    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/llms/</loc>
+    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scientist/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/separation-of-concerns/</loc>
@@ -127,6 +175,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/medallion/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/null/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sql/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tokenization/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
@@ -173,8 +230,53 @@
     <loc>http://localhost:1313/tags/single-node/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/data-modeling/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/framework/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/granularity/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/star-schema/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prompting/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/systemic-vision/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vibe-coding/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-quality/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modern-data-stack/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/strategy/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/team-topologies/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/big-data/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/concept/</loc>
-    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/etl/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-architect/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>

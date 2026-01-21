@@ -23,10 +23,10 @@ Actualmente usan una estructura heredada de sistemas on-premise.
 
 &nbsp;
 
-A) s3://bucket/data/region=us/year=2025/month=01/day=15/events.parquet
-B) s3://bucket/data/user_id={id}/timestamp={epoch}/events.parquet
-C) s3://bucket/data/dt=2025-01-15/events.parquet
-D) s3://bucket/data/year_month=2025_01/day=15/events.parquet
+- A) s3://bucket/data/region=us/year=2025/month=01/day=15/events.parquet
+- B) s3://bucket/data/user_id={id}/timestamp={epoch}/events.parquet
+- C) s3://bucket/data/dt=2025-01-15/events.parquet
+- D) s3://bucket/data/year_month=2025_01/day=15/events.parquet
 
 &nbsp;
 

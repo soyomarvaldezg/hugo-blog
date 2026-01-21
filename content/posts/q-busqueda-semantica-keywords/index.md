@@ -21,10 +21,10 @@ El sistema actual solo busca coincidencias exactas de palabras, resultando en 60
 
 &nbsp;
 
-A) Ampliar el diccionario de sinónimos y crear reglas if-then para mapear términos relacionados
-B) Usar regex avanzado y procesamiento de lenguaje natural (NLP) básico para extraer entidades nombradas
-C) Implementar embeddings basados en LLMs que convierten texto a vectores y búsqueda por similitud semántica
-D) Crear un sistema de etiquetado manual donde usuarios seleccionan de 500 categorías predefinidas
+- A) Ampliar el diccionario de sinónimos y crear reglas if-then para mapear términos relacionados
+- B) Usar regex avanzado y procesamiento de lenguaje natural (NLP) básico para extraer entidades nombradas
+- C) Implementar embeddings basados en LLMs que convierten texto a vectores y búsqueda por similitud semántica
+- D) Crear un sistema de etiquetado manual donde usuarios seleccionan de 500 categorías predefinidas
 
 &nbsp;
 

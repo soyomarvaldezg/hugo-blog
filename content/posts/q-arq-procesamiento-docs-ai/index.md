@@ -20,13 +20,10 @@ El sistema legacy basado en reglas RPA requiere mantenimiento constante porque c
 **¿Cuál arquitectura sería más confiable para un sistema de procesamiento con GPT-4?**
 &nbsp;
 
-A) Fine-tunear un modelo open-source con tus facturas históricas, incluyendo todas las reglas de validación empresariales en el entrenamiento
-
-B) Usar GPT-4 zero-shot para extracción y validación simultánea, delegando todo el proceso a un único prompt complejo
-
-C) GPT-4 zero-shot solo para extracción de datos, con capa separada de post-procesamiento para validación de reglas de negocio
-
-D) Combinar múltiples modelos especializados (uno por idioma/región) con enrutamiento inteligente según el documento
+- A) Fine-tunear un modelo open-source con tus facturas históricas, incluyendo todas las reglas de validación empresariales en el entrenamiento
+- B) Usar GPT-4 zero-shot para extracción y validación simultánea, delegando todo el proceso a un único prompt complejo
+- C) GPT-4 zero-shot solo para extracción de datos, con capa separada de post-procesamiento para validación de reglas de negocio
+- D) Combinar múltiples modelos especializados (uno por idioma/región) con enrutamiento inteligente según el documento
 
 &nbsp;
 

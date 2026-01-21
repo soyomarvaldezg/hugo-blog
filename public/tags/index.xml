@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>http://localhost:1313/tags/career/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>http://localhost:1313/tags/data-engineering/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals</title>
+      <link>http://localhost:1313/tags/fundamentals/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifecycle</title>
+      <link>http://localhost:1313/tags/lifecycle/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/lifecycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <link>http://localhost:1313/tags/roadmap/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/roadmap/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Buckets</title>
       <link>http://localhost:1313/tags/buckets/</link>
@@ -89,11 +134,38 @@
     </item>
     
     <item>
+      <title>Analyst</title>
+      <link>http://localhost:1313/tags/analyst/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/analyst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineer</title>
+      <link>http://localhost:1313/tags/engineer/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Llms</title>
       <link>http://localhost:1313/tags/llms/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientist</title>
+      <link>http://localhost:1313/tags/scientist/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/scientist/</guid>
       <description></description>
     </item>
     
@@ -202,6 +274,33 @@
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/medallion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Null</title>
+      <link>http://localhost:1313/tags/null/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/null/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sql</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
     </item>
     
@@ -341,11 +440,146 @@
     </item>
     
     <item>
+      <title>Data Modeling</title>
+      <link>http://localhost:1313/tags/data-modeling/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework</title>
+      <link>http://localhost:1313/tags/framework/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granularity</title>
+      <link>http://localhost:1313/tags/granularity/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/granularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star Schema</title>
+      <link>http://localhost:1313/tags/star-schema/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/star-schema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompting</title>
+      <link>http://localhost:1313/tags/prompting/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/prompting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Vision</title>
+      <link>http://localhost:1313/tags/systemic-vision/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/systemic-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vibe Coding</title>
+      <link>http://localhost:1313/tags/vibe-coding/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vibe-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Quality</title>
+      <link>http://localhost:1313/tags/data-quality/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Data Stack</title>
+      <link>http://localhost:1313/tags/modern-data-stack/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/modern-data-stack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>http://localhost:1313/tags/strategy/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Topologies</title>
+      <link>http://localhost:1313/tags/team-topologies/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/team-topologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>http://localhost:1313/tags/big-data/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Concept</title>
       <link>http://localhost:1313/tags/concept/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etl</title>
+      <link>http://localhost:1313/tags/etl/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/etl/</guid>
       <description></description>
     </item>
     

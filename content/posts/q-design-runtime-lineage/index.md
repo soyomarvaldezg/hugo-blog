@@ -25,13 +25,10 @@ Tu VP pregunta: **“¿Por qué nuestro lineage no detectó esto?” ¿Qué tipo
 
 &nbsp;
 
-A) Column-level lineage — necesitas granularidad a nivel columna para detectar cambios en schemas
-
-B) Metadata-based lineage — parsea el código dbt para extraer todas las dependencias estáticas
-
-C) Business lineage — mapea la relación entre tablas técnicas y dashboards ejecutivos
-
-D) Runtime lineage — captura el comportamiento real de ejecución incluyendo fallbacks y lógica condicional
+- A) Column-level lineage — necesitas granularidad a nivel columna para detectar cambios en schemas
+- B) Metadata-based lineage — parsea el código dbt para extraer todas las dependencias estáticas
+- C) Business lineage — mapea la relación entre tablas técnicas y dashboards ejecutivos
+- D) Runtime lineage — captura el comportamiento real de ejecución incluyendo fallbacks y lógica condicional
 
 &nbsp;
 
