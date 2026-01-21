@@ -4,7 +4,7 @@ date: 2025-12-15
 summary: ¿No sabes si ser Data Analyst, Data Engineer o Data Scientist? Descubre las diferencias reales en sus día a día, el stack tecnológico de cada uno y cómo elegir el camino correcto para no perder meses aprendiendo skills equivocados.
 tags: ["career", "analyst", "engineer", "scientist", "roadmap"]
 author: "Omar Valdez G"
-weight: 9
+weight: 2
 ShowToc: true
 draft: false
 ---
