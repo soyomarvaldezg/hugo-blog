@@ -6,7 +6,7 @@
     <description>Recent content on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
       <link>http://localhost:1313/posts/01-data-terms/</link>
@@ -23,6 +23,15 @@
       
       <guid>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</guid>
       <description>Aprender Python, SQL y Cloud no te convierte en un Data Engineer; te convierte en alguien peligroso si no entiendes el ciclo de vida de los datos. Descubre el roadmap real dividido por etapas, desde la comprensión de fuentes hasta el consumo, pasando por patrones de integración y modelado.</description>
+    </item>
+    
+    <item>
+      <title>Analyst vs Engineer vs Scientist: Diferencias Reales 🎯</title>
+      <link>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</guid>
+      <description>¿No sabes si ser Data Analyst, Data Engineer o Data Scientist? Descubre las diferencias reales en sus día a día, el stack tecnológico de cada uno y cómo elegir el camino correcto para no perder meses aprendiendo skills equivocados.</description>
     </item>
     
     <item>
@@ -143,15 +152,6 @@
     </item>
     
     <item>
-      <title>Analyst vs Engineer vs Scientist: Diferencias Reales 🎯</title>
-      <link>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</guid>
-      <description>¿No sabes si ser Data Analyst, Data Engineer o Data Scientist? Descubre las diferencias reales en sus día a día, el stack tecnológico de cada uno y cómo elegir el camino correcto para no perder meses aprendiendo skills equivocados.</description>
-    </item>
-    
-    <item>
       <title>Pregunta #7 - Arquitectura Medallion en Data Lakehouse</title>
       <link>http://localhost:1313/posts/q-arquitectura-medallion-warehouse/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
@@ -230,6 +230,15 @@
       
       <guid>http://localhost:1313/posts/q-particionamiento-datos-s3/</guid>
       <description>Evita el anti-patrón que ralentiza tus queries en 20×</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #16 - Infraestructura de Datos para IA</title>
+      <link>http://localhost:1313/posts/q-infra-datos-para-ia/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-infra-datos-para-ia/</guid>
+      <description>¿Por qué tus modelos fallan por datos corruptos?</description>
     </item>
     
     <item>

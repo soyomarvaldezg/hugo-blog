@@ -8,8 +8,14 @@
     <loc>http://localhost:1313/posts/10-dataeng-roadmap-nadie-ensena/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</loc>
+    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/08-query-culpa-null/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/07-por-que-modelado-falla/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/06-ia-vibe-coding/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
@@ -41,14 +47,8 @@
     <loc>http://localhost:1313/posts/q-modern-etl-testing-dbt-sqlmesh/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/07-por-que-modelado-falla/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/q-tokenizacion-llms-multilinguies/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/q-arquitectura-medallion-warehouse/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
