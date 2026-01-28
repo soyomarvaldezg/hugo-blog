@@ -250,5 +250,32 @@
       <description>Por qué el tamaño del modelo no te protege de los ataques</description>
     </item>
     
+    <item>
+      <title>Pregunta #18 - Batching en Bases de Datos Analíticas</title>
+      <link>http://localhost:1313/posts/q-batching-bd-analitica/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-batching-bd-analitica/</guid>
+      <description>Por qué ClickHouse no funciona como tu base de datos tradicional</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #19 - Primer Contratación de Datos</title>
+      <link>http://localhost:1313/posts/q-primer-contratacion-datos/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-primer-contratacion-datos/</guid>
+      <description>Analista antes que Ingeniero. El orden correcto importa</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #20 - Marketing Hype en Data Engineering </title>
+      <link>http://localhost:1313/posts/q-marketing-hype-de/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-marketing-hype-de/</guid>
+      <description>Nuevas medallas en soldados viejos, cuando lo &amp;ldquo;revolucionario&amp;rdquo; ya existía</description>
+    </item>
+    
   </channel>
 </rss>
