@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security on Omar Valdez G</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on Omar Valdez G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregunta #17- Data Poisoning y el Factor de Escala</title>
+      <link>http://localhost:1313/posts/q-data-poisoning-ai/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-data-poisoning-ai/</guid>
+      <description>Por qué el tamaño del modelo no te protege de los ataques</description>
+    </item>
+    
+  </channel>
+</rss>

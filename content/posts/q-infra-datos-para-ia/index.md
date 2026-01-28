@@ -41,7 +41,7 @@ Empresas como Uber o grandes plataformas de streaming enfrentaron problemas dond
 
 Adopta la mentalidad de **"Tablas, no Pilas"**. Organiza tus datos como estantes de una biblioteca (tablas estructuradas) en lugar de cajas apiladas en un almacén (archivos sueltos). La estructura permite la velocidad a escala.
 
-**REFERENCIAS**
+### **REFERENCIAS**
 
 - [AI Data Infrastructure: Components, Challenges & Best Practices - lakeFS](https://lakefs.io/blog/ai-data-infrastructure/) - Guía sobre los componentes críticos de infraestructura para IA.
 - [How to Build a Scalable Data Architecture in 2025 - DataDecoded](https://datadecoded.com/news/how-to-build-a-scalable-data-architecture-in-2025/) - Análisis de arquitecturas modulares y agnósticas.
