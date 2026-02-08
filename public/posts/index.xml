@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Omar Valdez G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Terms</title>
       <link>http://localhost:1313/posts/01-data-terms/</link>
@@ -27,10 +27,10 @@
     
     <item>
       <title>Analyst vs Engineer vs Scientist: Diferencias Reales 🎯</title>
-      <link>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</link>
+      <link>http://localhost:1313/posts/v-analyst-engineer-scientist-diff/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/09-analyst-engineer-scientist-diff/</guid>
+      <guid>http://localhost:1313/posts/v-analyst-engineer-scientist-diff/</guid>
       <description>¿No sabes si ser Data Analyst, Data Engineer o Data Scientist? Descubre las diferencias reales en sus día a día, el stack tecnológico de cada uno y cómo elegir el camino correcto para no perder meses aprendiendo skills equivocados.</description>
     </item>
     
@@ -275,6 +275,15 @@
       
       <guid>http://localhost:1313/posts/q-marketing-hype-de/</guid>
       <description>Nuevas medallas en soldados viejos, cuando lo &amp;ldquo;revolucionario&amp;rdquo; ya existía</description>
+    </item>
+    
+    <item>
+      <title>Pregunta #21 - Partitioning como Arquitectura</title>
+      <link>http://localhost:1313/posts/q-partitioning-arquitectura/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q-partitioning-arquitectura/</guid>
+      <description>El esqueleto que sostiene todo tu sistema, no un tweak de optimización</description>
     </item>
     
   </channel>

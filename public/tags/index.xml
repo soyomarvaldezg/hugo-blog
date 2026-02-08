@@ -17,6 +17,51 @@
     </item>
     
     <item>
+      <title>Batch</title>
+      <link>http://localhost:1313/tags/batch/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clickhouse</title>
+      <link>http://localhost:1313/tags/clickhouse/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/clickhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Analyst</title>
+      <link>http://localhost:1313/tags/data-analyst/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-analyst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Engineering</title>
+      <link>http://localhost:1313/tags/data-engineering/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals</title>
+      <link>http://localhost:1313/tags/fundamentals/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Llm</title>
       <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
@@ -26,11 +71,38 @@
     </item>
     
     <item>
+      <title>Olap</title>
+      <link>http://localhost:1313/tags/olap/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/olap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Security</title>
       <link>http://localhost:1313/tags/security/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talent</title>
+      <link>http://localhost:1313/tags/talent/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/talent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>http://localhost:1313/tags/terms/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/terms/</guid>
       <description></description>
     </item>
     
@@ -58,24 +130,6 @@
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Engineering</title>
-      <link>http://localhost:1313/tags/data-engineering/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fundamentals</title>
-      <link>http://localhost:1313/tags/fundamentals/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/fundamentals/</guid>
       <description></description>
     </item>
     
