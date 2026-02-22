@@ -1,7 +1,7 @@
 :root {
-  --primary-color: #d14783;
-  --secondary-color: #ffefd6;
-  --alternative-color: #bf799d;
+  --primary-color: #7aa2f7; /* blue */
+  --secondary-color: #c0caf5; /* text */
+  --alternative-color: #bb9af7; /* purple */
 }
 
 /* Style the Cusdis container */
@@ -36,10 +36,11 @@ h3 {
 }
 
 a:hover {
-  color: #704f6b;
+  color: #7dcfff;
 }
+
 .dark a:hover {
-  color: var(--primary-color);
+  color: #7dcfff;
 }
 
 /* Light mode */

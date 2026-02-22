@@ -14,7 +14,7 @@ _NOTA: Generalmente se actualiza de forma eventual, por lo que NO puede estar al
 
 ### Lo Básico
 
-- Para mi sistema operativo, uso MacOs
+- Para mi sistema operativo, uso [MacOs](https://www.apple.com/mac/)
 - Para mi window manager, uso [Aerospace](https://github.com/nikitabobko/AeroSpace).
 - Para mi terminal, uso [Ghostty](https://ghostty.org/).
 - Para mi shell, uso [Zsh](https://www.zsh.org/).

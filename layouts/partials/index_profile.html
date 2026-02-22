@@ -63,18 +63,21 @@
 </div>
 
 <script>
-    new TypeIt("#companionMethods", {
-        speed: 80,
-        waitUntilVisible: true,
-    })
-    .type("#dataengineering ")
-    .type("#datainfra #dataintegrity")
+  new TypeIt("#companionMethods", {
+    speed: 80,
+    waitUntilVisible: true,
+    lifeLike: true,
+  })
+    .type("#ai #llm #genai")
     .pause(1000)
-    .move(-15)
-    .type(" #ml #ai")
-    .move(null, { to: "END" })
-    .type(" #dataops")
-    .type(" #security")
-    .pause(500)
+    .delete(null, { delay: 40 }) // borra todo
+    .pause(300)
+    .type("#dataengineering ")
+    .pause(200)
+    .type("#mlsystems ")
+    .pause(200)
+    .type("#aisystems ")
+    .pause(200)
+    .type("#architecture")
     .go();
 </script>
