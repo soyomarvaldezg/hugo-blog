@@ -18,7 +18,6 @@ Por eso, los datos no son museos de dashboards ni monstruos que nos generen desc
 
 ## ¿Qué encontrarás aquí?
 
-- Preguntas técnicas sobre ingeniería de datos, ML/AI y gestión moderna de datos para practicar y aprender en minutos.
 - Artículos prácticos y análisis sobre calidad, arquitectura, seguridad y mejores prácticas del manejo de datos en la vida real.
 - Reflexiones, ejemplos y consejos que abordan problemas cotidianos del mundo de datos: gestión, visualización, acceso, privacidad y toma de decisiones.
 

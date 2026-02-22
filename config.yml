@@ -6,6 +6,9 @@ titleSeparator: ""
 # pagination:
 #   pagerSize: 10
 
+author:
+  name: "Omar Valdez G"
+
 enableRobotsTXT: true
 enableEmoji: true
 
@@ -23,7 +26,7 @@ params:
   env: production
   title: Omar Valdez G
   Description:
-  author: Omar Valdez G
+  # author: Omar Valdez G
   description: "#dataengineering #datainfra #ai #dataintegrity #dataops #security"
   keywords: [blog, soyomarvaldezg, papermod]
   defaultTheme: dark
