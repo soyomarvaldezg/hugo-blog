@@ -175,4 +175,4 @@ No vas a cambiar el sistema de tu empresa en un día. Pero puedes dejar de ser e
 
 ## Fuentes
 
-- 2026 State of Data Engineering Survey — https://www.stateofdataengineering.com/
+- 2026 State of Data Engineering Survey — https://joereis.github.io/practical_data_data_eng_survey/
